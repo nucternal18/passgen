@@ -1,0 +1,16 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {},
+  "description": "Simple password generator",
+  "author": "A Oladipupo-Usoro",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.0.0"
+  }
+}
